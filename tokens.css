@@ -4,8 +4,8 @@
    ============================================================ */
 :root {
   /* Brand */
-  --color-primary: #52bba9;          /* New Material button, accents */
-  --color-primary-text: #000000;     /* text on primary button */
+  --color-primary: #2b7a6c;          /* New Material button, accents */
+  --color-primary-text: #ffffff;     /* text on primary button */
   --color-nav-bg: #122925;           /* top navbar */
   --color-nav-text: rgba(255, 255, 255, 0.64);
   --color-nav-text-active: #ffffff;
@@ -24,7 +24,7 @@
 
   /* Typography */
   --font-family: "Inter", -apple-system, system-ui, "Segoe UI", Roboto, sans-serif;
-  --font-size-table-header: 16px;
+  --font-size-table-header: 14px;
   --font-weight-table-header: 600;
   --font-size-table-body: 14px;
   --font-size-nav: 14px;
