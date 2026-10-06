@@ -29,6 +29,7 @@
   --font-size-table-body: 14px;
   --font-size-nav: 14px;
   --font-size-chip: 12px;
+  --font-weight-button-primary: 400;  /* regular */
 
   /* Shape & spacing */
   --radius-button: 4px;
